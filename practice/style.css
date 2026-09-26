@@ -1,0 +1,15 @@
+#root {
+    background-color: blue;
+    width:200px;
+    height:200px;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;   
+    position:absolute;   
+}
+#root p
+{
+    color: white;   
+    font-size: 20px;    
+}
